@@ -8,6 +8,7 @@ The name was originally some random keystrokes, and I developed it into what it 
 - This guy doesn't hate Microsoft, Apple or Google. UwU
 - This guy wants some friends! 👉 [Talk with me on Telegram!][tme]
 - This guy is a gamer (👉 [Steam][steam])
+- [Buy me a coffee☕][sponsor]
 
 <!--
 ### 🤖 My devices
@@ -18,8 +19,9 @@ The name was originally some random keystrokes, and I developed it into what it 
 -->
 
 ### ❤️ My cool stuffs that i want to share with you. **You**, the lovely visitor!
-- [MagiskOnGooglePlayGames][hpesuperpower]
-- [Revanced Xposed][rvxp]: Xposed module that blocks ads, unlocks background playback for Youtube & YT Music.
+- [MagiskOnGooglePlayGames][hpesuperpower]: Install Magisk on Google Play Games on PC
+- [JADX DexKit Plugin][jadxdexkit]: Search enhancement for APK reverse engineering with JADX
+- [ReVanced Xposed][rvxp]: Xposed module that blocks ads, unlocks background playback for Youtube & YT Music.
 - [MIUI QOL][miuiqol]: Xposed module that fixed the rough MIUI experience for myself.
 - [Youtube automatic select chinese caption UserScript][youtubechinesecaption]: Learning a language is hard.
 - [PC小米妙享安装补丁][smartsharepatch]
@@ -38,3 +40,5 @@ The name was originally some random keystrokes, and I developed it into what it 
 [steam]: https://steamcommunity.com/id/ChsBuffer
 [tme]: https://t.me/chsbuffer
 [mikupictures]: https://t.me/mikupictures
+[jadxdexkit]: https://github.com/chsbuffer/jadx-dexkit-plugin
+[sponsor]: https://afdian.com/a/ChsBuffer
