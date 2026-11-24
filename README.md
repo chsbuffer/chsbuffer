@@ -1,6 +1,6 @@
 ### 👋 Hi There!
 
-This is **ChsBuffer** 👦, you can call me **buffer** for short. <br>
+This is **ChsBuffer**, you can call me **buffer** for short. <br>
 The name was originally some random keystrokes, and I developed it into what it is now.
 
 ### ...
